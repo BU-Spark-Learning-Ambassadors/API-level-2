@@ -7,13 +7,17 @@
 ## Difficulty = ★☆☆
 
 ## What you will build:
-- ??
+- A Pokemon identifer using the public PokeAPI
 
 ## How you will build it:
-- ??
+- Identify the PokeAPI endpoint
+- Ask the user to enter a Pokemon name input
+- Make a GET request to the API
+- Check if the request was successful
+- Print data about the Pokemon
 
 ## Duration:
-- Less than a day 
+- 1 hour 
 
 # Instructions
 
