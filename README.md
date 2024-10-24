@@ -21,7 +21,7 @@
 1. **Clone this repo** into your local machine:
 
    ```bash
-   git clone https://github.com/BU-Spark-Learning-Ambassadors/DataPrepVisualization_LevelTwo.git
+   git clone 
    ```
    
 # Instructions
@@ -29,9 +29,7 @@
 - Clone this repo into your local machine
 
 ## 🏆 Challenge
-- Create histograms, scatter plots, and heatmaps to visualize relationships in the data.
-- The structure of the code and several functions are already provided — read over the code before you start!
-- Try perforiming similar functions with another dataset you find online.
+- 
 
 ## 🛟 Need Help?
 
