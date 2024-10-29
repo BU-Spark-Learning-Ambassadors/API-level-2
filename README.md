@@ -17,7 +17,7 @@
 - Print data about the Pokemon
 
 ## Duration:
-- 20 min 
+- less than a day
 
 # Instructions
 
@@ -37,7 +37,9 @@
    ```
 
 ## 🏆 Challenge
-- 
+- Follow the instructions and fill in code to create a simple Pokedex
+- Parse the data from the API and print statements
+- Explore the PokeAPI in more depth, adding in more data about abilities and stats to print
 
 ## 🛟 Need Help?
 
