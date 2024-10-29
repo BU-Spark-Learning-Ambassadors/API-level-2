@@ -7,7 +7,7 @@
 ## Difficulty = ★☆☆
 
 ## What you will build:
-- A Pokemon identifer using the public PokeAPI
+- A simple Pokedex using the public PokeAPI
 
 ## How you will build it:
 - Identify the PokeAPI endpoint
@@ -17,7 +17,7 @@
 - Print data about the Pokemon
 
 ## Duration:
-- 1 hour 
+- 20 min 
 
 # Instructions
 
