@@ -25,12 +25,16 @@
 1. **Clone this repo** into your local machine:
 
    ```bash
-   git clone 
+   git clone https://github.com/BU-Spark-Learning-Ambassadors/API-level2.git
    ```
    
 # Instructions
 ## 🚀 Setup
 - Clone this repo into your local machine
+- Install the requests library by running this code in your terminal
+  ```bash
+   pip install requests
+   ```
 
 ## 🏆 Challenge
 - 
