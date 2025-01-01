@@ -1,8 +1,8 @@
-# APIs Level Two Microchallenge
+# APIs Level Two Side Quesr
 
 
-## What is a micro-challenge?
-- A micro-challenge is a small task or project designed to be completed within a specific time frame. It promotes learning through hands-on coding experience. This micro-challenge's purpose is to help you practice data preparation and visualization using Python and the **Iris dataset**. If you aren’t familiar with these concepts, our Level One walkthrough is a great place to start.
+## What is a side quest?
+- A side quest is a small task or project designed to be completed within a specific time frame. It promotes learning through hands-on coding experience. This side quest's purpose is to help you practice data preparation and visualization using Python and the **Iris dataset**. If you aren’t familiar with these concepts, our Level One walkthrough is a great place to start.
 
 ## Difficulty = ★☆☆
 
@@ -43,4 +43,4 @@
 
 ## 🛟 Need Help?
 
-Go to the [Spark! Space](https://www.bu.edu/spark/resources/space/) and ask any student employee for a **Learning Ambassador** that can help with a micro-challenge.
+Go to the [Spark! Space](https://www.bu.edu/spark/resources/space/) and ask any student employee for a **Learning Ambassador** that can help with a side quest.
