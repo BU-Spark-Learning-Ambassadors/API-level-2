@@ -1,4 +1,4 @@
-# APIs Level Two Side Quesr
+# APIs Level Two Side Quest
 
 
 ## What is a side quest?
