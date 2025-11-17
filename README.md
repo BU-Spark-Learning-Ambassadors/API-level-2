@@ -44,3 +44,7 @@
 ## 🛟 Need Help?
 
 Go to the [Spark! Space](https://www.bu.edu/spark/resources/space/) and ask any student employee for a **Learning Ambassador** that can help with a side quest.
+
+## 👥 Credit
+
+This Side Quest was created by Catherine Liu with support from the Spark! Learning Team.
