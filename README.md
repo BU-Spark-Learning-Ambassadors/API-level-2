@@ -45,6 +45,12 @@
 
 Go to the [Spark! Space](https://www.bu.edu/spark/resources/space/) and ask any student employee for a **Learning Ambassador** that can help with a side quest.
 
+## Submission Requirements
+Complete the code in `pokedex.py`.
+Your program should run with:
+```bash
+python pokedex.py
+
 ## 👥 Credit
 
 This Side Quest was created by Catherine Liu with support from the Spark! Learning Team.
